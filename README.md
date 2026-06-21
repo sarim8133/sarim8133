@@ -24,5 +24,4 @@
 ![sarim8133's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarim8133&theme=react&hide_border=true)
 ![sarim8133's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarim8133&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarim8133&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
